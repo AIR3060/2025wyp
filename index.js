@@ -192,7 +192,7 @@ S.UI = (function () {
       } else {
         // 显示普通文字
         S.Shape.switchShape(S.ShapeBuilder.letter(current));
-        setTimeout(showNextText, 1500);
+        setTimeout(showNextText, 3000);
       }
     }
  
