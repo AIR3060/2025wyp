@@ -18,7 +18,7 @@ var S = {
       if (i !== -1) {
         S.UI.simulate(decodeURI(action).substring(i + 3));
       } else {
-        S.UI.simulate('#countdown 3|祝|王云鹏|新年快乐|愿你|新的一年|顺风顺水|扶摇直上|百事无忌|平安喜乐|万事胜意|前程似锦|天天开心|2025年快乐');
+        S.UI.simulate('#countdown 3|祝|郁辰茜|新年快乐|愿你|新的一年|顺风顺水|扶摇直上|百事无忌|平安喜乐|万事胜意|前程似锦|天天开心|2025年快乐');
       }
  
       // 开始绘图循环
